@@ -5,14 +5,14 @@
     }
 
 header {
-      background-color: #8c6a03;
+      background-color: #588B7F;
       color: white;
       text-align: center;
       padding: 20px;
     }
 
 nav {
-      background-color: #423302;
+      background-color: #A83249;
       color: white;
       padding: 10px;
       text-align: center;
@@ -43,18 +43,18 @@ section {
 
     .izquierda {
       flex: 1; /* Ocupa una parte del espacio */
-      background-color: rgba(140, 106, 3, 0.23); /* Color de fondo */
+      background-color: #F7D794; /* Color de fondo */
     }
 
     .centro {
       flex: 2; /* Ocupa el doble de espacio */
-      background-color: rgb(215, 200, 154); /* Color de fondoo */
+      background-color: #F7D794; /* Color de fondoo */
       box-shadow: 0 2px 5px #303330;
     }
 
     .derecha {
       flex: 1; /* Ocupa una parte del espacio */
-      background-color: rgba(140, 106, 3, 0.23); /* Azul claro */
+      background-color: #F7D794; /* Azul claro */
     }
 
     iframe {
@@ -65,7 +65,7 @@ section {
     }
 
     footer {
-      background-color: #423302;
+      background-color: #A83249;
       color: white;
       text-align: center;
       padding: 10px;
